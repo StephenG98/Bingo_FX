@@ -1,4 +1,3 @@
-
 import java.util.HashSet;
 import javafx.application.Application;
 import javafx.event.ActionEvent;
