@@ -1,7 +1,3 @@
-//Author: Stephen P. George
-//Course: Java Programming
-//Program 3
-//References: N/A
 
 import java.util.HashSet;
 import javafx.application.Application;
